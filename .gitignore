@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# React Native
+*.js.map
+*.lock
+
+# Flutter
+.dart_tool/
+build/
+flutter_plugins/
+pubspec.lock
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
